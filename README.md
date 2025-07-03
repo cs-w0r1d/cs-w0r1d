@@ -67,4 +67,10 @@
   <a href="mailto:w0r1d666cs@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
+  <a href="https://www.zhihu.com/people/W0R1D" target="_blank">
+    <img src="https://img.shields.io/badge/知乎-0084FF?style=for-the-badge&logo=zhihu&logoColor=white" alt="知乎"/>
+  </a>
+  <a href="https://blog.csdn.net/weixin_52083155?spm=1010.2135.3001.5343" target="_blank">
+    <img src="https://img.shields.io/badge/CSDN-C32136?style=for-the-badge&logo=Csdn&logoColor=white" alt="CSDN"/>
+  </a>
 </p>
