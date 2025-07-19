@@ -9,9 +9,9 @@
 </p>
 
 - 🔭 我目前正在致力于病理诊断。
-- 🌱 我正在学习CLIP、transformer。
+- 🌱 我正在学习CLIP、Transformer、Vit。
 - 👯 我希望与他人合作病理相关的研究。
-- 🤔 我正在寻找关于病理AI相关研究课题。
+- 🤔 我正在寻找关于病理AI相关的病理数据。
 - 💬 随时可以问我关于学习与生活的任何问题。
 - 📫 如何联系我: w0r1d666cs@gmail.com
 - 😄 代词: He/Him (或 She/Her, They/Them)
