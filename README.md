@@ -1,12 +1,6 @@
 # Hi there, I'm Wang Rundong（w0r1d） 👋
 
-<p align="right">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=cs-w0r1d&show_icons=true&theme=dracula&hide_border=true&cache_seconds=21600"
-    height="160"
-    alt="GitHub Stats"
-  />
-</p>
+
 
 <p>
   你好！我是一名BME在读硕士,对AI领域充满热情,目前的研究是医学AI相关。
